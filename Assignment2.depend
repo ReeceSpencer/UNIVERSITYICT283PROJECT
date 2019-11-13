@@ -1,0 +1,206 @@
+# depslib dependency file v1.0
+1559538214 source:c:\users\reece\desktop\university\ict283\labprojects\assignment 2\ass2\datalogtype.cpp
+	"DataLogType.H"
+
+1559538184 c:\users\reece\desktop\university\ict283\labprojects\assignment 2\ass2\datalogtype.h
+	<iostream>
+	<string.h>
+	"date.h"
+	"vector.h"
+	"time.h"
+	"BST.H"
+
+1559468566 c:\users\reece\desktop\university\ict283\labprojects\assignment 2\ass2\date.h
+	<iostream>
+	<string.h>
+
+1559465936 c:\users\reece\desktop\university\ict283\labprojects\assignment 2\ass2\vector.h
+	<vector>
+	<cstddef>
+	<algorithm>
+
+1559468896 c:\users\reece\desktop\university\ict283\labprojects\assignment 2\ass2\time.h
+	<iostream>
+	<string.h>
+
+1559454271 c:\users\reece\desktop\university\ict283\labprojects\assignment 2\ass2\bst.h
+	<cstddef>
+	<algorithm>
+	<iostream>
+
+1559468591 source:c:\users\reece\desktop\university\ict283\labprojects\assignment 2\ass2\date.cpp
+	"date.h"
+
+1559529887 source:c:\users\reece\desktop\university\ict283\labprojects\assignment 2\ass2\main.cpp
+	<iostream>
+	"BST.H"
+	"DATE.H"
+	"VECTOR.H"
+	"windlog.h"
+	"choices.H"
+
+1559539381 c:\users\reece\desktop\university\ict283\labprojects\assignment 2\ass2\windlog.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string.h>
+	<map>
+	"date.h"
+	"vector.h"
+	"time.h"
+	"BST.H"
+	"DataLogType.H"
+
+1559537369 c:\users\reece\desktop\university\ict283\labprojects\assignment 2\ass2\choices.h
+	<iostream>
+	"BST.H"
+	"DATE.H"
+	"VECTOR.H"
+	"windlog.h"
+
+1559469077 source:c:\users\reece\desktop\university\ict283\labprojects\assignment 2\ass2\time.cpp
+	"time.h"
+
+1559538214 source:c:\users\reece\desktop\university\ict283\labprojects\assignment 2 - copy\ass2\datalogtype.cpp
+	"DataLogType.H"
+
+1560011584 c:\users\reece\desktop\university\ict283\labprojects\assignment 2 - copy\ass2\datalogtype.h
+	<iostream>
+	<string.h>
+	"date.h"
+	"vector.h"
+	"time.h"
+	"BST.H"
+
+1559468566 c:\users\reece\desktop\university\ict283\labprojects\assignment 2 - copy\ass2\date.h
+	<iostream>
+	<string.h>
+
+1559986244 c:\users\reece\desktop\university\ict283\labprojects\assignment 2 - copy\ass2\vector.h
+	<vector>
+	<cstddef>
+	<algorithm>
+
+1559468896 c:\users\reece\desktop\university\ict283\labprojects\assignment 2 - copy\ass2\time.h
+	<iostream>
+	<string.h>
+
+1560012755 c:\users\reece\desktop\university\ict283\labprojects\assignment 2 - copy\ass2\bst.h
+	<cstddef>
+	<algorithm>
+	<iostream>
+	<functional>
+
+1559468591 source:c:\users\reece\desktop\university\ict283\labprojects\assignment 2 - copy\ass2\date.cpp
+	"date.h"
+
+1559713457 source:c:\users\reece\desktop\university\ict283\labprojects\assignment 2 - copy\ass2\main.cpp
+	<iostream>
+	"BST.H"
+	"DATE.H"
+	"VECTOR.H"
+	"windlog.h"
+	"choices.H"
+
+1560010084 c:\users\reece\desktop\university\ict283\labprojects\assignment 2 - copy\ass2\windlog.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string.h>
+	<map>
+	<functional>
+	"date.h"
+	"vector.h"
+	"time.h"
+	"BST.H"
+	"DataLogType.H"
+
+1559753757 c:\users\reece\desktop\university\ict283\labprojects\assignment 2 - copy\ass2\choices.h
+	<iostream>
+	"BST.H"
+	"DATE.H"
+	"VECTOR.H"
+	"windlog.h"
+
+1559469077 source:c:\users\reece\desktop\university\ict283\labprojects\assignment 2 - copy\ass2\time.cpp
+	"time.h"
+
+1560064970 source:c:\users\reece\desktop\university\ict283\labprojects\assignment 2 - copy\ass2\choices.cpp
+	"choices.H"
+
+1560065092 source:c:\users\reece\desktop\university\ict283\labprojects\assignment 2 - copy\ass2\windlog.cpp
+	"WINDLOG.H"
+
+1560099463 source:c:\users\reece\desktop\university\ict283\labprojects\assignment 2 - final\ass2\datalogtype.cpp
+	"DataLogType.H"
+
+1560099462 c:\users\reece\desktop\university\ict283\labprojects\assignment 2 - final\ass2\datalogtype.h
+	<iostream>
+	<string.h>
+	"date.h"
+	"vector.h"
+	"time.h"
+	"BST.H"
+
+1560099463 c:\users\reece\desktop\university\ict283\labprojects\assignment 2 - final\ass2\date.h
+	<iostream>
+	<string.h>
+
+1560145264 c:\users\reece\desktop\university\ict283\labprojects\assignment 2 - final\ass2\vector.h
+	<vector>
+	<cstddef>
+	<algorithm>
+
+1560099463 c:\users\reece\desktop\university\ict283\labprojects\assignment 2 - final\ass2\time.h
+	<iostream>
+	<string.h>
+
+1560148070 c:\users\reece\desktop\university\ict283\labprojects\assignment 2 - final\ass2\bst.h
+	<cstddef>
+	<algorithm>
+	<iostream>
+	<functional>
+
+1560099463 source:c:\users\reece\desktop\university\ict283\labprojects\assignment 2 - final\ass2\date.cpp
+	"date.h"
+
+1560099464 source:c:\users\reece\desktop\university\ict283\labprojects\assignment 2 - final\ass2\main.cpp
+	<iostream>
+	"BST.H"
+	"DATE.H"
+	"VECTOR.H"
+	"windlog.h"
+	"choices.H"
+
+1560148681 c:\users\reece\desktop\university\ict283\labprojects\assignment 2 - final\ass2\windlog.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string.h>
+	<map>
+	<functional>
+	"date.h"
+	"vector.h"
+	"time.h"
+	"BST.H"
+	"DataLogType.H"
+
+1560105126 c:\users\reece\desktop\university\ict283\labprojects\assignment 2 - final\ass2\choices.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string.h>
+	"BST.H"
+	"DATE.H"
+	"VECTOR.H"
+	"windlog.h"
+
+1560099464 source:c:\users\reece\desktop\university\ict283\labprojects\assignment 2 - final\ass2\time.cpp
+	"time.h"
+
+1560146743 source:c:\users\reece\desktop\university\ict283\labprojects\assignment 2 - final\ass2\windlog.cpp
+	"WINDLOG.H"
+
+1560146738 source:c:\users\reece\desktop\university\ict283\labprojects\assignment 2 - final\ass2\choices.cpp
+	"choices.H"
+
